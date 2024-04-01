@@ -42,18 +42,18 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`p_id`, `p_number`, `p_name`, `p_image`, `p_amount`, `p_status`) VALUES
-(1, 852369, 'Redmi Y2 (Black, 32 GB) (3 GB RAM)', '1.jpeg', 25000, 'Active'),
-(2, 159753, 'Samsung Galaxy M20 (Charcoal Black, 4+64GB)', '2.jpeg', 58000, 'Active'),
-(3, 357842, 'OPPO K1 (Piano Black, 64 GB)  (4 GB RAM)', '3.jpeg', 65000, 'Active'),
-(4, 456654, 'Apple iPhone X (Space Gray, 256 GB)', '4.jpeg', 25000, 'Active'),
-(5, 358426, 'Vivo V15 Pro (Topaz Blue, 128 GB)  (6 GB RAM)', '5.jpeg', 55000, 'Active'),
-(6, 123222, 'Honor 9N (Midnight Black, 32 GB)  (3 GB RAM)', '6.jpeg', 39000, 'Active'),
-(7, 741852, 'Lenovo K8 Note (Venom Black, 64 GB)  (4 GB RAM)', '7.jpeg', 36000, 'Active'),
-(8, 963852, 'Asus ZenFone Max M1 (Black, 32 GB)  (3 GB RAM)', '8.jpeg', 84000, 'Active'),
-(9, 999666, 'Apple iPhone 6 (Gold, 32 GB)', '9.jpeg', 44000, 'Active'),
-(10, 332211, 'Samsung Galaxy A9 (Bubblegum Pink, 128 GB)', '10.jpeg', 97000, 'Active'),
-(11, 848484, 'Samsung Galaxy A8 Star (White, 64 GB)  (6 GB RAM', '11.jpeg', 78000, 'Active'),
-(12, 379182, 'Apple iPhone 8 Plus (Silver, 64 GB)', '12.jpeg', 48000, 'Active');
+(1, 852369, '', '1.jpeg', 25000, 'Active'),
+(2, 159753, '', '2.jpeg', 58000, 'Active'),
+(3, 357842, '', '3.jpeg', 65000, 'Active'),
+(4, 456654, '', '4.jpeg', 25000, 'Active'),
+(5, 358426, '', '5.jpeg', 55000, 'Active'),
+(6, 123222, '', '6.jpeg', 39000, 'Active'),
+(7, 741852, '', '7.jpeg', 36000, 'Active'),
+(8, 963852, '', '8.jpeg', 84000, 'Active'),
+(9, 999666, '', '9.jpeg', 44000, 'Active'),
+(10, 332211, '', '10.jpeg', 97000, 'Active'),
+(11, 848484, '', '11.jpeg', 78000, 'Active'),
+(12, 379182, '', '12.jpeg', 48000, 'Active');
 
 --
 -- Indexes for dumped tables
